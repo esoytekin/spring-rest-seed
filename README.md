@@ -8,5 +8,5 @@
     - lgFirstName
     - lgEmail
     - lgPassword
-* GET: /rest/service/getCustomers
+* GET: /rest/customer
 
